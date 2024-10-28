@@ -12,7 +12,7 @@ Este es un sencillo juego de adivinanza de palabras en Java. El jugador debe adi
 - Si la letra es incorrecta, se reduce el número de intentos disponibles.
 - El juego termina cuando el jugador adivina la palabra o se queda sin intentos.
 
-## Estructura del Código
+## Estructura del Código.
 
 El código utiliza las siguientes características de Java:
 
