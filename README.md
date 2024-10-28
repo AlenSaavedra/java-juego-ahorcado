@@ -44,7 +44,7 @@ Palabra a adivinar: _nte___ige__ (11 letras)
 Felicidades!, has adivinado la palabra secreta: inteligencia
 ```
 
-## Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto.
 
 ### Requisitos previos
 
