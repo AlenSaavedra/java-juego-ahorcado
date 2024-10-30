@@ -1,4 +1,4 @@
-```markdown
+
 # Juego de Adivinanza de Palabras
 
 Este proyecto es un sencillo pero entretenido juego de adivinanza de palabras implementado en Java. El objetivo del jugador es adivinar una palabra secreta letra por letra, con un límite de intentos disponibles. Ideal para quienes desean practicar lógica de programación básica en Java.
@@ -23,7 +23,6 @@ El código utiliza varias características y estructuras clave de Java para una 
 
 A continuación, se muestra un ejemplo de cómo el usuario podría interactuar con el juego en la consola:
 
-```
 Palabra a adivinar: _________ (11 letras)
 Introduce una letra: e
 Palabra a adivinar: __te____e__ (11 letras)
@@ -34,7 +33,7 @@ Introduce una letra: i
 Palabra a adivinar: _nte___ige__ (11 letras)
 ...
 Felicidades! Has adivinado la palabra secreta: inteligencia
-```
+
 
 ## Requisitos Previos
 
