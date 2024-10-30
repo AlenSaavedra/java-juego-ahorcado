@@ -1,5 +1,3 @@
-Aquí tienes el contenido del README en formato `readme.md`:
-
 ```markdown
 # Juego de Adivinanza de Palabras
 
