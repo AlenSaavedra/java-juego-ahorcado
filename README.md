@@ -1,10 +1,10 @@
 
 ```md
-# Juego de Adivinanza de Palabras
+#Juego de Adivinanza de Palabras
 
 Este es un sencillo juego de adivinanza de palabras en Java. El jugador debe adivinar una palabra secreta letra por letra, con un número limitado de intentos.
 
-## Funcionalidad
+##Funcionalidad
 
 - El juego selecciona una palabra secreta.
 - El jugador tiene 10 intentos para adivinar la palabra.
