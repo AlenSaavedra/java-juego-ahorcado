@@ -79,4 +79,4 @@ Este proyecto está bajo la licencia [MIT License](LICENSE). ¡Siéntete libre d
 ¡Gracias por jugar y contribuir!
 ```
 
-Este archivo está listo para guardarse como `README.md` en tu proyecto.
+
